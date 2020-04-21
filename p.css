@@ -1,0 +1,32 @@
+@import url('https://cdn.fontcdn.ir/Font/Persian/Sahel/Sahel.css');
+@import url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css');
+.sahel{
+    font-family:Sahel;
+	font-weight:normal;
+}
+.vazir{
+    font-family: Vazir !important;
+	font-weight:900;
+}
+.block{
+	text-align:right;
+	display: block;
+}
+.big{
+	font-size:1.1em;
+}
+.bigg{
+	font-size:1.2em;
+}
+.big10{
+	font-size:2em;
+}
+.popover-body{
+	display:none;
+}
+*{
+	letter-spacing: 0 !important;
+}
+thead th.sorting::after, table.dataTable thead th.sorting_asc::after, table.dataTable thead th.sorting_desc::after, table.dataTable thead td.sorting::after, table.dataTable thead td.sorting_asc::after, table.dataTable thead td.sorting_desc::after {position: inherit;}
+.logo{text-align:center;}.logo a{color: black;}.logo span{color: #1b84e7;}
+.tx-left{text-align:left;}
